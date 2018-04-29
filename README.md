@@ -1,8 +1,8 @@
-# Commit::Filter
+# Commit_Filter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/commit/filter`. To experiment with that code, run `bin/console` for an interactive prompt.
+## About
 
-TODO: Delete this and the text above, and describe your gem
+This gem builds a commit_msg hook script for your Git project. It aborts the commit if the commit message contains any profanities.
 
 ## Installation
 
